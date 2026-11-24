@@ -1,2 +1,3 @@
 # onur.github.io
-plisiholder ridmi
+plisiholder ridmi isi sendir
+yes
