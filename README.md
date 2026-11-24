@@ -1,2 +1,2 @@
 # onur.github.io
-plisiholder
+plisiholder ridmi
